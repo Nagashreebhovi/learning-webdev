@@ -1,0 +1,17 @@
+Inside the body add heading and paragraph.
+Inside the head add style.
+<strong> it indicates bold.
+lorem 5 is to create 5 dummy texts
+2 types of lists are there
+1.ul-unordered list
+2.ol-ordered list
+
+li=list item inside ul.
+
+placeholder text used to write text inside the box
+placeholder password is used to rite password inside the box it doesn't shows the password instead shows dotted.
+placeholder textarea is used to write comment inside the box.
+
+div tag used to show the text it doesn't having any special. but it used to create group
+a tag (anchor tag) is used to link any multiple html document and also use to link with websites like google or anything by using href 
+used to link one page to another page
